@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Juhi Rathod
 
-<!--
-**juhirathod933-lang/juhirathod933-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI/ML Student  
+🐍 Python Developer  
+🤖 Interested in Machine Learning, Deep Learning and Data Science  
+🚀 Building Real-World Projects
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- Machine Learning
+- Deep Learning
+- HTML, CSS, JavaScript
+- PHP & MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- AI Based Phishing Email Detection System
+- Password Strength Analyzer
+- PG Life
+- Secure Login System
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juhirathod933-lang&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juhirathod933-lang&layout=compact)
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/juhi-rathod-a17b7b374
+- Email: juhirathod933@gmail.com
