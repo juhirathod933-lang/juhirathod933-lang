@@ -23,7 +23,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juhirathod933-lang&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juhirathod933-lang&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juhirathod933-lang&layout=compact&theme=tokyonight)
 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/juhi-rathod-a17b7b374
